@@ -1,0 +1,4 @@
+Model,Distance_Metric,K_Neighbors,Weights,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+KNN Euclidean,Euclidean,5,uniform,0.841,0.8325,0.8073,0.8169,0.8406,0.8466,0.8284,0.0,1.1458
+KNN Manhattan,Manhattan,5,uniform,0.899,0.8881,0.8798,0.8834,0.8991,0.888,0.8723,0.0156,1.1386
+KNN Cosine,Cosine,5,uniform,0.835,0.8113,0.8175,0.8099,0.8302,0.8476,0.8276,0.0,1.1386

@@ -1,0 +1,4 @@
+,Actual,Euclidean,Manhattan,Cosine
+Low (0),496,507,497,522
+Moderate (1),303,328,316,244
+High (2),201,165,187,234
