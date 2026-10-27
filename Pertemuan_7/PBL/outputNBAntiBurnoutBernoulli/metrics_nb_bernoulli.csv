@@ -1,0 +1,2 @@
+Model,Distribusi,Alpha,Binarize,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+Naive Bayes (BernoulliNB),Bernoulli,1.0,0.0,0.835,0.7953,0.8073,0.7974,0.8359,0.8478,0.8119,0.0938,1.227

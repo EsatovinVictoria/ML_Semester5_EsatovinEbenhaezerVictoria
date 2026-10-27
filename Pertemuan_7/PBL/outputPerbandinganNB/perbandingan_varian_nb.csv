@@ -1,0 +1,4 @@
+Model,Distribusi,Var_Smoothing,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB,Alpha,Binarize,Scaler
+Naive Bayes (GaussianNB),Gaussian,1e-09,0.989,0.9827,0.9879,0.985,0.989,0.986,0.9809,0.0156,1.0181,,,
+Naive Bayes (BernoulliNB),Bernoulli,,0.835,0.7953,0.8073,0.7974,0.8359,0.8478,0.8119,0.0156,1.2031,1.0,0.0,
+Naive Bayes (MultinomialNB),Multinomial,,0.906,0.8958,0.8563,0.8643,0.9025,0.9074,0.8674,0.0156,0.2521,1.0,,MinMaxScaler

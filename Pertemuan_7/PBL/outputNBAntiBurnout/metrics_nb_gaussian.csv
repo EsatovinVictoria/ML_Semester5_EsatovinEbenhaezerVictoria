@@ -1,0 +1,2 @@
+Model,Distribusi,Var_Smoothing,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+Naive Bayes (GaussianNB),Gaussian,1e-09,0.989,0.9827,0.9879,0.985,0.989,0.986,0.9809,0.0156,1.0181

@@ -1,0 +1,3 @@
+Varian_NB,Akurasi,F1_Score_Macro
+GaussianNB (Modifikasi Kontinu),0.989,0.985
+BernoulliNB (Jurnal Binarized),0.835,0.7974

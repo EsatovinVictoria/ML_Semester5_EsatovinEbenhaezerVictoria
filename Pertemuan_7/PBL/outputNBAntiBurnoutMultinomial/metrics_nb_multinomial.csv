@@ -1,0 +1,2 @@
+Model,Distribusi,Scaler,Alpha,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+Naive Bayes (MultinomialNB),Multinomial,MinMaxScaler,1.0,0.906,0.8958,0.8563,0.8643,0.9025,0.9074,0.8674,0.0156,0.2521
