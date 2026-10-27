@@ -1,0 +1,2 @@
+Model,Kernel,C,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+SVM Polynomial,Polynomial,1.0,0.979,0.9713,0.9708,0.971,0.979,0.9782,0.9702,0.3438,1.9548

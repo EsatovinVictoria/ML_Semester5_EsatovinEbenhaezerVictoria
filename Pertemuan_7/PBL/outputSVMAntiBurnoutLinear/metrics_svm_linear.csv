@@ -1,0 +1,2 @@
+Model,Kernel,C,Accuracy,Precision_Macro,Recall_Macro,F1_Score_Macro,F1_Score_Weighted,CV_5Fold_Accuracy_Mean,CV_5Fold_F1_Macro_Mean,Training_Time_s,Peak_Memory_MB
+SVM Linear,Linear,1.0,0.973,0.9671,0.9653,0.9661,0.9729,0.9744,0.9678,0.0469,1.1824
