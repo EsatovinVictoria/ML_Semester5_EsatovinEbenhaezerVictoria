@@ -14,3 +14,8 @@ __pycache__/
 
 # Dataset dan cache Praktikum 4
 /Pertemuan_9/.cache/
+
+# Dataset Pertemuan 11
+/Pertemuan_11/dataset/
+/Pertemuan_11/dataset.zip
+__MACOSX/
